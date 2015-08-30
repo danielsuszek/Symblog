@@ -1,3 +1,7 @@
+symblog_blog:
+    resource: "@SymblogBlogBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
     resource: "@AppBundle/Controller/"
     type:     annotation

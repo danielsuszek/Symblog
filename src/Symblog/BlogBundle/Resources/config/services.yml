@@ -1,0 +1,4 @@
+services:
+#    symblog_blog.example:
+#        class: Symblog\BlogBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
