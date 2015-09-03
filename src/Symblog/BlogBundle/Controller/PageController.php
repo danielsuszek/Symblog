@@ -27,7 +27,8 @@ class PageController extends Controller
         $em = $this->getDoctrine()->getEntityManager();
 
         $blog = $em->getRepository('SymblogBlogBundle:Blog')->find($id);
-
+        var_dump($blog);
+        /*
         if (!$blog) {
             throw $this->createNotFoundException('Unable to find Blog post.');
         }
@@ -35,6 +36,8 @@ class PageController extends Controller
         return $this->render('SymblogBlogBundle:Blog:show.html.twig', array(
             'blog'      => $blog,
         ));
+         * 
+         */
     }
      
     
