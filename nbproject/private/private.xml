@@ -3,12 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/home/daniel/Projects/SymfonyProjects/Symblog/src/Symblog/BlogBundle/DataFixtures/ORM/BlogFixtures.php</file>
             <file>file:/home/daniel/Projects/SymfonyProjects/Symblog/src/Symblog/BlogBundle/Controller/PageController.php</file>
-            <file>file:/home/daniel/Projects/SymfonyProjects/Symblog/app/Resources/views/base.html.twig</file>
-            <file>file:/home/daniel/Projects/SymfonyProjects/Symblog/src/Symblog/BlogBundle/Resources/views/Page/about.html.twig</file>
-            <file>file:/home/daniel/Projects/SymfonyProjects/Symblog/src/Symblog/BlogBundle/Resources/views/Page/contact.html.twig</file>
-            <file>file:/home/daniel/Projects/SymfonyProjects/Symblog/src/Symblog/BlogBundle/Resources/views/Page/index.html.twig</file>
-            <file>file:/home/daniel/Projects/SymfonyProjects/Symblog/src/Symblog/BlogBundle/Resources/config/routing.yml</file>
         </group>
     </open-files>
 </project-private>

@@ -12,4 +12,10 @@ SymblogBlogBundle_contact:
     pattern: /contact
     defaults: { _controller: SymblogBlogBundle:Page:contact }
     requirements: 
-        _method: GET        
+        _method: GET   
+SyblogBlogBundle_blog_show:
+    pattern:  /{id}
+    defaults: { _controller: SymblogBlogBundle:Blog:show }
+    requirements:
+        _method:  GET
+        id: \d+        
